@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Arduino GLCD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AD5272	KEYWORD1	AD5272Constructor
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+write_data	KEYWORD2
+read_rdac	KEYWORD2
+get_addr	KEYWORD2
+set_addr	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+AD5272_50TP_WRITE	LITERAL1
+AD5272_RDAC_READ	LITERAL1
+AD5272_RDAC_WRITE	LITERAL1
+AD5272_CONTROL_WRITE	LITERAL1
+
+AD5272_50TP_WRITE_ENABLE	LITERAL1
+AD5272_50TP_WRITE_SUCCESS	LITERAL1
+AD5272_RDAC_CALIB_DISABLE	LITERAL1
+
+AD5272_RDAC_WIPER_WRITE_ENABLE	LITERAL1
