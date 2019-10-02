@@ -1,1 +1,1 @@
-# Arduino_AD5272
+# Arduino Library for AD5272
